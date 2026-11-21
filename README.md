@@ -21,13 +21,12 @@ Virtual Desktop / VDXR, Meta, Pimax, WMR).
 | 🖱️ **Mouse in the panel** | Point, click and scroll in the VR panel with a glowing flashlight-amber cursor that lights up over anything clickable |
 | ⚡ **Performance** | Renders at your headset's size, headset-rate limiter, foveated rendering (VRS) |
 | 🐢 **Cheat Engine speedhack** | Works at any speed — the game speeds up or slows down, your head tracking stays real-time |
-| 🔄 **Version agnostic** | Finds everything by pattern + the game's own type names — no fixed addresses |
 
 ---
 
 ## 🟡 REQUIREMENTS
 
-1. **Alan Wake Remastered** for PC (`Game_f_x64_EOS.exe`) — Epic / any store.
+1. **Alan Wake Remastered** for PC (`Game_f_x64_EOS.exe`) — Epic 
 2. A **PC VR headset** with an OpenXR runtime running.
 3. In the game's options: **HDR off**, **DLSS off**.
 4. A **gamepad** is recommended.
@@ -226,7 +225,7 @@ the 0.9.0 – 0.10.3 fixes — please send `awrvr.log` and `xrhost.log`.
 
 ## 🙏 CREDITS
 
-- **DA2 VR framework** (XrBridge, vrkit) and the **VR Mod Framework Guide / Performance Manual** — mark-mon
+- **Mark-mon VR framework** (XrBridge, vrkit) and the **VR Mod Framework Guide / Performance Manual** — mark-mon
 - Camera findings cross-checked with the **Alan Wake Remastered head-tracking mod**
 - [MinHook](https://github.com/TsudaKageyu/minhook) (BSD-2) · [Dear ImGui](https://github.com/ocornut/imgui) (MIT) ·
   OpenXR headers (Khronos, Apache-2.0)
