@@ -7,6 +7,9 @@
 person, a big cinema screen for cutscenes and an in-headset settings menu. One file, any OpenXR headset (SteamVR,
 Virtual Desktop / VDXR, Meta, Pimax, WMR).
 
+
+<img width="5130" height="1334" alt="al" src="https://github.com/user-attachments/assets/857e1d76-44a4-45e7-b70e-4d89d1db47d8" />
+
 ---
 
 ## 🟢 WHAT YOU GET
