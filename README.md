@@ -1,4 +1,7 @@
-# 🔦 ALAN WAKE REMASTERED VR — 0.10.29
+<img width="1376" height="768" alt="Gemini_Generated_Image_kagz04kagz04kagz" src="https://github.com/user-attachments/assets/1d6041d4-9c0a-4700-a25a-5b78b76cd539" />
+
+
+# 🔦 ALAN WAKE REMASTERED VR 🔦
 
 **Full 6DoF VR for Alan Wake Remastered (PC, DirectX 12).** Head tracking, real stereo 3D drawn by the game, first
 person, a big cinema screen for cutscenes and an in-headset settings menu. One file, any OpenXR headset (SteamVR,
